@@ -28,10 +28,8 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-
-# 📖 [Morse-Code] <a name="about-project"></a>
-
-This is a simple program in ruby that helps to decode the Morse Code message
+# MY-ENUMERABLE
+In this project, we will learn how to use a module inside a class in Ruby. For this, we will create a class `MyList` and a module `MyEnumerable`. Our module, `MyEnumerable` will implement a subset of the functionality of **Enumerable**.
 
 
 ## 🛠 Built With <a name="built-with"></a>
