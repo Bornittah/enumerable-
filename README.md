@@ -1,4 +1,4 @@
-# morse-code
+# My Enumerable
 
 
 <a name="readme-top"></a>
@@ -79,7 +79,7 @@ In order to run this project you need to have basic knowledge of
 
 Clone this repository to your desired folder:
 
-`https://github.com/Bornittah/morse-code.git`
+`https://github.com/Bornittah/enumerable-.git`
 
 ### Install
 
