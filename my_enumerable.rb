@@ -16,4 +16,4 @@ module MyEnumerable
     @list.each { |num| filtered_arr.push(num) if yield num }
     filtered_arr
   end
-  end
+end
